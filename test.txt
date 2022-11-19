@@ -1,0 +1,739 @@
+Main Menu
+Summary
+Current
+Current Graph
+Voltage
+Power
+Energy
+Power Demand
+Test
+Edit Settings
+View Settings
+Diagnostics
+Events
+Reset
+Unit Information
+Summary
+Main Menu
+I,avg
+A
+V,L-L
+V
+P,3ph
+kW
+E,net
+kWh
+Freq
+Hz
+E,net
+kWh
+E,net
+MWh
+Instantaneous
+Ii =
+(*In)
+Instantaneous = OFF
+Instantaneous = ON
+Current(A)
+Main Menu
+L1/A
+L2/B 
+L3/C
+N
+G
+Max Current
+Min Current
+Current THD(%)
+Long Delay
+Ir =
+(*In)
+tr= 
+Sec
+Current(%)
+Main Menu
+Voltage(V)
+Main Menu
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+Line-Neutral
+Short Delay
+Isd =
+(*Ir)
+tsd =
+Sec
+Slope =       Flat
+High Load Alarm 1 =    %
+High Load Alarm 2 =    %
+Voltage(V)
+Main Menu
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Line-Line
+Ground Fault
+Function = OFF
+Function = ALARM
+Function = TRIP
+Ig =
+(*In)
+tsd =
+Sec
+Ground Fault PreAlarm =   %
+Max Voltage(V)
+Main Menu
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+Over Voltage
+Under Voltage
+Voltage Unbalanced
+Current Unbalanced
+Reverse Power
+Phase Loss
+Line-Neutral
+Max Voltage(V)
+Main Menu
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Line-Line
+Pickup =
+%
+Value = (Pickup Value of reverse power in KW)
+kW
+Time =
+Sec
+Protection Settings
+Unit Settings
+Protection Settings
+Unit Settings
+Min Voltage(V)
+Main Menu
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+Line-Neutral
+Under Voltage
+Voltage Unbalanced
+Current Unbalanced
+Min Voltage(V)
+Main Menu
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Line-Line
+Reverse Power
+Phase Loss
+Pickup =
+(Voltage)
+Over Voltage
+Voltage THD(%)
+Main Menu
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+Line-Neutral
+Thermal Memory
+Thermal Memory
+Thermal Memory Long Delay = ON
+Thermal Memory Long Delay = OFF
+Thermal Memory Ground Fault = ON
+Thermal Memory Ground Fault = OFF
+Voltage THD(%)
+Main Menu
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Line-Line
+Thermal Memory Alarm
+Power Setup
+Power Setup
+System Voltage
+Power
+Main Menu
+Real
+kW
+Reactive
+kvar
+Apparent
+kVA
+Power Factor
+   
+Power Factor Max
+
+Power Factor Min
+
+Energy
+Main Menu
+Forward Active
+kWh
+Reverse Active
+kWh
+Net Active
+kWh
+Total Active
+kWh
+Leading Reactive
+kvarh
+Lagging Reactive
+kvarh
+Net Reactive
+kvarh
+Total Reactive
+kvarh
+Apparent
+kVAh
+
+
+Power Feed = Forward
+Power Feed = Reverse
+Power Factor Sign = IEC
+Power Factor Sign = IEEE
+Power Factor Sign = IEEEalt
+Current Demand window = Fixed
+Current Demand window = Sliding
+Current Demand = 
+Min
+Power Demand
+Main Menu
+Real
+kW
+Reactive
+kvar
+Apparent
+kVA
+
+
+Breaker Health Alarm
+Neutral Sensor
+Rogowski
+Current Transformator
+Peak Demand
+Main Menu
+Real Peak
+kW
+Reactive Peak
+kvar
+Apparent Peak
+kVA
+  
+  
+Test
+Main Menu
+Local
+Remote
+  
+  
+  
+Open Breaker
+Y
+N
+Test
+Test Menu
+Trip Time
+s
+Trip Current
+A
+  
+Test Menu
+
+"""RMS > 5%In"" "
+Opening is 
+not allowed!
+Test Menu
+
+Breaker is opening
+ 
+Settings
+Language
+English
+
+Deutsch
+Espa?ol
+Portugu?s
+Edit Password
+Neutral
+N=0%
+N=60%
+N=100%
+ZSI
+Communication
+Slope =      I0.5t
+Slope =         It
+Slope =        I2t
+Slope =        I4t
+Maintenance Mode
+R5=2.5xIn
+R5=4.0xIn
+R5=6.0xIn
+R5=8.0xIn
+R5=10.0xIn
+Set Time
+Ground Fault = Residual
+Ground Fault =Source/Zero Sequence
+R5=1000A
+R4=2000A
+R3=3000A
+R2=4000A
+R1=5000A
+R5=4000A
+R4=8000A
+R3=12000A
+R2=16000A
+R1=20000A
+Prot. Settings
+Set Time
+Save Time?
+Relay Configuration
+
+Long Delay
+Short Delay
+Instantaneous
+Ground Fault
+OFF
+ON
+Y
+N
+Y
+N
+Disable
+Enable
+Main Menu
+Comm. Menu
+Setting Menu
+Retry
+Test Menu
+Reset Max/Min
+Main Menu
+Current
+L-N Voltage
+L-L Voltage
+Peak Demand
+All Max/Min
+Reset Diag.
+Setting Menu
+Trips
+Operations
+Temperature
+Runtime
+All Diagnostics
+Reset Energy
+Energy
+Communication
+Modbus Port
+Modbus CAM
+INCOM CAM
+Ethernet CAM
+Profibus CAM
+No CAMs
+Address
+Baudrate
+1200 bps
+4800 bps
+9600 bps
+19200 bps
+Parity
+None
+Odd
+Even 
+Stop bit
+1 bit
+2 bit
+DHCP Enable
+False
+True
+IP Address
+Subnet Mask
+Default Gateway
+Reset Pin
+   .   .   .   
+Modbus Port
+Modbus CAM
+Ethernet CAM
+Profibus CAM
+INCOM CAM
+Harmonics
+Main Menu
+L1/A
+-L2/B
+L2/B
+-L3/C
+L3/C
+-L1/A
+L1/A
+-N
+L2/B
+-N
+L3/C
+-N
+Line - Line
+Line - Neutral
+L1/A Harmonics
+L2/B Harmonics
+L3/C Harmonics
+L1/A-N Harmonics
+L2/B-N Harmonics
+L3/C-N Harmonics
+Harmonics(V)
+Frequency(Hz)
+Harmonics(I)
+Harmonics(V)
+Crest Factor(A)
+Current Demand
+Current Demand Max
+Current Demand Min
+Diagnostics
+Main Menu
+Summary
+Short Circuit
+Overload
+Operations
+Temperature
+Runtime
+  
+  
+  
+  
+Health Summary
+Diagnostics
+OK
+SERVICE
+RECOMM(recommended)
+Short Circuit
+Diagnostics
+Short Delay
+Inst.
+High Cur.
+Total
+
+Source Ground Sensor
+Overload
+Diagnostics
+Total
+Ground
+   
+Total
+
+Operations
+Diagnostics
+Trips
+Openings
+Tests
+Manual
+Total
+Date of Last 
+Operation:
+  
+  
+  
+Last Operation
+Temperature
+Diagnostics
+Device Temp.
+deg C
+Max Temp.
+deg C
+  
+Runtime
+Diagnostics
+Since Last 
+Reset:
+Days
+Hours
+Minutes
+Unit Info.
+Main Menu
+Catalog  #
+   
+Ir             A
+   
+Firmware1 #
+   
+Firmware2 #
+Firmware Flash Version #
+FW Mismatch
+QR Code
+PXR20V000L00C
+PXR20V000L00M
+PXR20V000LG0C
+PXR20V000LG0M
+PXR20V000LGAC
+PXR20V000LGAM
+PXR25V000L00M
+PXR25V000LG0M
+PXR25V000L0AM
+PXR25V000LGAM
+PXR20V000L0AM
+PXR20V000L0AC
+Breaker  NRX-NF
+Breaker  NRX-RF
+Breaker MAGNUM STD
+Breaker MAGNUM DWH
+QR Code
+Unit Info.
+Enter Password
+Main Menu
+0
+0
+0
+0
+Submit
+Submit
+Time is out
+Reset Password
+to Default?
+Y
+N
+  
+Enter Password
+Setting Menu
+0
+0
+0
+0
+Submit
+Retry
+   
+Password is 
+Wrong!
+ 
+ 
+Edit Password
+Setting Menu
+0
+0
+0
+0
+Submit
+Change Password 
+to       ?
+Y
+N
+ 
+Trip
+Trip Cause
+ 
+Trip Current
+A
+Alarm
+Alarm Cause
+ 
+Alarm Current
+A
+Temperature
+deg C
+Unknown
+Normal
+Instantaneous
+Over Voltage
+Under Voltage
+Low AUX-Power
+Over Frequency
+Under Frequency
+Cur. Un-balance
+Vol. Un-balance
+Apparent QF
+Power Demand
+VA Demand
+THD
+Breaker Health
+Control via Comm.
+TA Open
+Diag. Warning
+Long Delay
+Short Delay
+Bad Rating Plug
+Reverse Power
+Reverse Seq.
+Phase Cur. Loss
+MCR
+Hardware Inst.
+Setpoints Error
+Over Temp.
+Neu. Long Delay
+Ground Fault
+Ground Fault
+Calibration Error
+RTC
+ARMs
+Mechanism
+RAM Error
+NV Memory
+Watchdog
+ROM Error
+Open from LCD
+GF Pre-Alarm
+High Load
+Highload Alarm 2
+Thermal M. Alm.
+High Temp.
+Low battery
+Neu. Short Delay
+Neu. Instant.
+  
+Loading
+Loading…
+In=200
+In=250
+In=300
+In=320
+In=400
+In=500
+In=600
+In=630
+In=800
+In=1000
+In=1200
+In=1250
+In=1600
+In=2000
+In=2500
+In=3000
+In=3200
+In=4000
+In=6300
+Prot. Settings
+Main Menu
+Long
+[   ] [   ]
+Short
+[   ] [   ]
+Inst.
+[   ]      
+GF
+[   ] [   ]
+MM
+[   ]      
+On
+Off
+Off/RMT]
+Invalid]
+Password Wrong
+Password Enter Admin
+Password Change User
+Password Change Admin
+Events
+Main Menu
+Summary
+Trip
+Alarm
+Time Change
+  
+Summary #   
+Trip Event #  
+Alarm Event #  
+Time Change #  
+Event Menu
+Null
+Original Time
+Power up-Time OK
+Power up-No Time
+Setpoints Download
+Time Adjusted
+Trip
+Trip No Waveform
+Alarm
+Minor Alarm
+Enter Test Mode
+Exit Test Mode
+Test Complete
+MM Activated
+MM Deactivated
+Opened via Comm.
+Closed via Comm.
+Password Enter User
+Relay Config.
+Relay 1
+Relay 2
+Relay 3
+Overload Trip
+Neutral Trip
+Short Circ. Trip
+GND Fault Trip
+Maint. Mode Trip
+All Trips
+Highload Alarm 1
+Highload Alarm 2
+High Temp.
+GF Pre-Alarm
+Thermal M. Alm.
+Watchdog
+Low Battery
+HW Fault
+Setp. Mismatch
+25% Health
+Comm. Error
+All Faults
+Aux Contact
+Bell Contact
+Maint. Mode ON
+ZSI Active
+ZSI In Received
+ZSI Out Sent
+Remote Control
+Short Delay Trip
+Inst. Trip
+Open Command
+Close Command
+Mechanism Trip
+Directional Short Circuit
+Over Voltage
+Under Voltage
+Over Frequency
+Under Frequency
+Voltage Unbalance
+Current Unbalance
+Reverse Active Power
+Reverse Reactive Power
+Total Harmonic Distortion
+Over Power Factor
+Under Power Factor
+Over Real Power
+Over Power Demand
+Over Apparent Power
+Over Reactive Power
+Phase Rotation
+Phase Loss (current)
+Sync-Check
+AQD Pre-warning Alarm
+User Management
+User
+Administrator
+Edit Password
+User Privileges
+User Disable
+Remote setpoints change
+Admin password changed
+User password changed
+User enabled
+User disabled
+
+
+
+
+

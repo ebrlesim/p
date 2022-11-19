@@ -1,0 +1,739 @@
+Menú Principal
+Resumen
+Corriente
+Gráfica de corriente
+Tensión
+Potencia
+Energía
+Demanda de potencia
+Testear
+Configuraciones
+Ver configuraciones
+Diagnóstico
+Eventos
+Reset
+Información del dispositivo
+Resumen
+Menú Principal
+I, media
+A
+V, línea
+V
+P,3f
+kW
+E, neta
+kWh
+Frecuencia
+Hz
+E, neta
+kWh
+E, neta
+MWh
+
+
+
+
+
+Corriente(A)
+Menú Principal
+L1/A
+L2/B
+L3/C
+N 
+G o PE
+Corriente máxima(A)
+Corriente mínima(A)
+THD corriente(%)
+
+
+
+
+
+Corriente(%)
+Menú Principal
+Tensión(V)
+Menú Principal
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+Fase-Neutro
+
+
+
+
+
+
+
+
+Tensión(V)
+Menú Principal
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Fase-Fase
+
+
+
+
+
+
+
+
+
+Tensión Máx(V)
+Menú Principal
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+
+
+
+
+
+
+Fase-Neutro
+Tensión Máx(V)
+Menú Principal
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Fase-Fase
+
+
+
+
+
+
+
+
+
+
+Tensión Mín(V)
+Menú Principal
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+Fase-Neutro
+
+
+
+Tensión Mín(V)
+Menú Principal
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Fase-Fase
+
+
+
+
+
+THD tensión
+Menú Principal
+L1/A
+L2/B
+L3/C
+-N
+-N
+-N
+Fase-Neutro
+
+
+
+
+
+
+THD tensión
+Menú Principal
+L1/A
+L2/B
+L3/C
+-L2/B
+-L3/C
+-L1/A
+Fase-Fase
+
+
+
+
+Potencia
+Menú Principal
+Activa
+kW
+Reactiva
+kvar
+Aparente
+kVA
+Factor de potencia
+   
+
+
+
+
+Energía
+Menú Principal
+Activa directa
+kWh
+Activa inversa
+kWh
+Activa neta
+kWh
+Activa total
+kWh
+Reactiva adelantada
+kvarh
+Reactiva atrasada
+kvarh
+Reactiva neta
+kvarh
+Reactiva total
+kvarh
+Aparente
+kVAh
+
+
+
+
+
+
+
+  
+
+
+  
+Demanda de potencia
+Menú Principal
+Activa
+kW
+Reactiva
+kvar
+Aparente
+kVA
+
+
+
+
+  
+  
+Pico de demanda
+Menú Principal
+Pico activa
+kW
+Pico reactiva
+kvar
+Pico aparente
+kVA
+  
+  
+Testear
+Menú Principal
+Local
+Remoto
+  
+  
+  
+Abrir disyuntor?
+Sí
+No 
+Testear
+Testear
+Tiempo de apertura
+s
+Corriente de disparo
+A
+  
+Testear
+
+RMS > 5%In
+Apertura 
+no permitida!
+Testear
+
+Disyuntor se
+está abriendo
+Configuraciones
+Idioma
+English
+
+Deutsch
+Espa?ol
+Portugu?s
+Editar contrase?a
+Neutro
+N=0%
+N=60%
+N=100%
+ZSI
+Comunicación
+
+
+
+
+Modo de mantenimiento
+R5=2.5xIn
+R5=4.0xIn
+R5=6.0xIn
+R5=8.0xIn
+R5=10.0xIn
+Ajustar hora
+
+
+R5=1000A
+R4=2000A
+R3=3000A
+R2=4000A
+R1=5000A
+R5=4000A
+R4=8000A
+R3=12000A
+R2=16000A
+R1=20000A
+Selectores
+Ajustar hora
+Guardar hora?
+Configuración de los relés
+
+
+
+
+
+Desactivado(a)
+Activado(a)
+Sí
+No 
+Sí
+No 
+Inhabilitar
+Habilitar
+Menú Principal
+Menú de comunicación
+Menu de configuración
+Intentar otra vez
+Testear
+Limpiar Máx/Mín
+Menú Principal
+Corriente
+Tensión de fase
+Tensión de linea
+Pico de demanda
+Todos los Máx/Mín
+Limpiar diagnósticos
+Menu de configuración
+Aperturas (disparos)
+Operaciones
+Temperatura
+Tiempo de ejecución
+Todos los diagnósticos
+Limpiar Energía
+Energía
+Comunicación
+Puerto Modbus
+CAM Modbus
+CAM INCOM
+CAM Ethernet
+CAM Profibus
+Sin CAMs
+Dirección
+Baudrate
+1200 bps
+4800 bps
+9600 bps
+19200 bps
+Paridad
+Ninguna
+Impar
+Par
+Bit de parada
+1 bit
+2 bit
+Habilitar DHCP
+FALSO
+VERDADERO
+Dirección IP
+Máscara de subred
+Gateway por defecto
+Pin de reset
+   .   .   .   
+Puerto Modbus
+CAM Modbus
+CAM Ethernet
+CAM Profibus
+CAM INCOM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diagnóstico
+Menú Principal
+Resumen
+Cortocircuito
+Sobrecarga 
+Operaciones
+Temperatura
+Tiempo de ejecución
+  
+  
+  
+  
+Salud del disyuntor
+Diagnóstico
+OK
+Servicio
+Recomendado
+Cortocircuito
+Diagnóstico
+Retraso Corto
+Disparo instantáneo
+Alta corriente
+Total
+
+  
+Sobrecarga 
+Diagnóstico
+Fase
+Tierra
+   
+Total
+
+Operaciones
+Diagnóstico
+Disparos
+Aperturas
+Pruebas
+Manual
+Total
+Fecha de última
+operación:
+  
+  
+  
+Última operación
+Temperatura
+Diagnóstico
+Temperatura del dispositivo
+grados C
+Temperatura máxima
+grados C
+  
+Tiempo de ejecución
+Diagnóstico
+desde reinicio 
+de contaje:
+Días
+Horas
+Minutos
+Información del dispositivo
+Menú Principal
+# catálogo
+   
+Ir             A
+   
+Firmware1 #
+   
+Firmware2 #
+   
+   
+Código QR
+PXR20V000L00C
+PXR20V000L00M
+PXR20V000LG0C
+PXR20V000LG0M
+PXR20V000LGAC
+PXR20V000LGAM
+PXR25V000L00M
+PXR25V000LG0M
+PXR25V000L0AM
+PXR25V000LGAM
+PXR20V000L0AM
+PXR20V000L0AC
+Disyuntor NRX-NF
+Disyuntor NRX-RF
+Disyuntor MAGNUM STD
+Disyuntor MAGNUM DWH
+Código QR
+Información del dispositivo
+Introducir contrase?a
+Menú Principal
+0
+0
+0
+0
+Enviar
+Enviar
+Tiempo agotado
+Restablecer contrase?a
+por defecto?
+Sí
+No 
+  
+Introducir contrase?a
+Menu de configuración
+0
+0
+0
+0
+Enviar
+Intentar otra vez
+   
+Contrase?a 
+incorrecta!
+ 
+ 
+Editar contrase?a
+Menu de configuración
+0
+0
+0
+0
+Enviar
+Cambiar contrase?a 
+a       ?
+Sí
+No 
+ 
+Disparo
+Causa del disparo
+ 
+Corriente de disparo
+A
+Alarma
+Causa de la alarma
+ 
+Corriente de alarma
+A
+Temperatura
+grados C
+Desconocido(a)
+Normal
+Instantáneo
+Sobretensión 
+Bajada de tensión
+AUX-Power bajo
+Frecuencia demasiado alta
+Frecuencia demasiado baja
+Corriente desbalanceada
+Tensión desbalanceada
+Factor Q
+Demanda de potencia
+Demanda de VA
+THD
+Salud del disyuntor
+Control via comunicación
+Actuador abierto
+Alarma de diagnóstico
+Retraso largo
+Retraso corto
+Enchufe Incorrecto
+Potencia Inversa
+Secuencia inversa
+Pérdidas de corriente de fase
+MCR
+Instantáneo Override
+Error de setpoints
+Sobretemperatura
+Retraso Largo en neutro
+Falla a tierra
+Falla a tierra
+Error de calibración
+RTC
+ARMs
+Mecanismo
+Error de RAM
+Memoria no volátil (NV)
+Watchdog
+Error de ROM
+Abierto desde el LCD
+Prealarma - falla a tierra
+Carga alta 1
+Carga alta 2
+Memoria térmica
+Alta temperatura
+Batería baja
+Retraso corto en neutro
+Instantáneo en neutro
+  
+Cargando
+Cargando…
+In=200
+In=250
+In=300
+In=320
+In=400
+In=500
+In=600
+In=630
+In=800
+In=1000
+In=1200
+In=1250
+In=1600
+In=2000
+In=2500
+In=3000
+In=3200
+In=4000
+In=6300
+Selectores
+Menú Principal
+Largo
+[   ] [   ]
+Corto 
+[   ] [   ]
+Instantáneo 
+[   ]      
+GF
+[   ] [   ]
+MM
+[   ]      
+On
+Off
+Off/RMT]
+Inválido]
+
+
+
+
+Eventos
+Menú Principal
+Resumen
+Disparo
+Alarma
+Ajuste de hora
+  
+Resumen #   
+Evento de disparo #  
+Evento de alarma #  
+Ajuste de hora #  
+Menú de eventos
+Nulo
+Hora original
+Encendido - Hora OK
+Encendido - Sin hora
+Descarga setpoints
+Hora ajustada
+Disparo 
+Disparo sin captura
+Alarma
+Alarma menor
+Entrar en modo test
+Salir de modo test
+Test completo
+Modo de mantenimiento activado
+Modo de mantenimiento desactivado
+Abierto por Com.
+Cerrado por Com.
+
+Configuración de relés
+Rele 1
+Rele 2
+Rele 3
+Disparo por sobrecarga
+Disparo por neutro
+Disparo por cortocircuito
+Disparo por falla a tierra
+Disparo en modo de mantenimiento
+Qualquier disparo
+Alarma de carga alta 1
+Alarma de carga alta 2
+Temperatura Alta
+Tierra prealarma
+Memória térmica
+Watchdog
+Batería baja
+Error de hardware
+Error setpoints
+Salud 25%
+Error de comunicación
+Qualquier error o falla
+Contacto auxiliar
+"Contacto ""Bell"" "
+Modo de mantenimiento activo
+ZSI activo
+ZSI In recibido
+ZSI Out enviado
+Control Remoto
+Disparo por retraso corto
+Disparo instantáneo
+Comando de abrir
+Comando de cerrar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
